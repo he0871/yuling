@@ -39,7 +39,7 @@ export default function ImgMediaCard() {
             Yuling
           </Typography>
           <Typography variant="body2" color="textSecondary" component="p">
-            Yuling is the most handsome hair artist in the DMV area (DC, Maryland, Virginia)
+            Yuling is one of the most popluar hair artist in the DMV area (DC, Maryland, Virginia)
           </Typography>
         </CardContent>
       </CardActionArea>
@@ -55,7 +55,7 @@ export default function ImgMediaCard() {
       Yuling Guo, Owner/Barber
     </Typography>
     <Typography gutterBottom variant="subtitle1" component="h2">
-      Coming from a long line of family barbers, Yuling started cutting hair at her family’s hair salon in Shenzhen, China will do) . Some say the shears are in her blood. She was first taught by a great barber, her mom, in 2008. After immigrating to the US, she honed her skills at Academy of Barber School and obtained her professional barbering license in 2012. For the past 8 years, she barbered at Diego’s hair salon and then at Grooming Lounge in downtown Washington DC. Her main focus is to provide our customers at YL’s Executive Cutz quality haircuts. Her blend of artistry,technical skill and passion for barbering make a unique experience.
+      Coming from a long line of family barbers, Yuling started cutting hair at her family’s hair salon in Shenzhen, China) . Some says the shears are in her blood. She was first taught by a great barber, her mom, in 2008. After immigrating to the US, she honed her skills at Academy of Barber School and obtained her professional barbering license in 2012. For the past 8 years, she barbered at Diego’s hair salon and then at Grooming Lounge in downtown Washington DC. Her main focus is to provide our customers at YL’s Executive Cuts quality haircuts. Her blend of artistry,technical skill and passion for barbering make a unique experience.
     </Typography>
     </Grid>
     <Grid item xs={1}></Grid>
