@@ -47,6 +47,18 @@ class Gallery extends React.Component{
           </Grid>
       </Grid>
 
+      <Grid container spacing={2}>
+          <Grid item xs={3} className="gallery">
+            <img src="/images/Gallery10.jpg" alt="gallery10"/>
+          </Grid>
+          <Grid item xs={3} className="gallery">
+            <img src="/images/Gallery13.jpg" alt="gallery13"/>
+          </Grid>
+          <Grid item xs={3} className="gallery">
+            <img src="/images/Gallery12.jpg" alt="gallery12"/>
+          </Grid>
+      </Grid>
+      
       </div>
       </Layout>
       

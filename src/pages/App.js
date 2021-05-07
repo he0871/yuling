@@ -9,7 +9,7 @@ class App extends React.Component{
 	<Layout>
     <div className="logo">
 		  <img src="/images/logo2.png" alt="logo" className="logo_image"/>
-      <Typography>Barbershop & Mobile Baber</Typography>
+      <Typography variant="h3">Mobile hairstylist and hair studio</Typography>
     </div>
     <div align = "center">
     <div className="ContactInfo"></div>
