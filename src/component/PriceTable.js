@@ -27,7 +27,7 @@ export default function FolderList() {
        <Typography gutterBottom variant="h5" component="h2"> Hair Studio </Typography>
       </ListItem>
       <ListItem>
-        <ListItemText  primary="MEN’S HAIRCUT $55 "/>
+        <ListItemText  primary="MEN’S HAIRCUT $65 "/>
       </ListItem>
       <ListItem>
         <ListItemText primary="WOMEN’S HAIRCUTS $65+" secondary="depending on length" />
@@ -36,13 +36,13 @@ export default function FolderList() {
         <ListItemText primary="KIDS’ HAIRCUT $35 " secondary="UNDER 12YEARS OLD" />
       </ListItem>
       <ListItem>
-        <ListItemText primary="BEARD TRIM $35"/>
+        <ListItemText primary="BEARD TRIM $40"/>
       </ListItem>
       <ListItem>
-        <ListItemText primary="HAIR COLOR $65" />
+        <ListItemText primary="HAIR COLOR $80" />
       </ListItem>
       <ListItem>
-        <ListItemText primary="GREY BLENDING $55"/>
+        <ListItemText primary="GREY BLENDING $65"/>
       </ListItem>
     </List>
   );
